@@ -1,4 +1,4 @@
-# Who Wants to Be a Millionaire in Console
+# Who Wants to use python 2.7 wins 1 million 
 
 Written in Python 2.7
 
